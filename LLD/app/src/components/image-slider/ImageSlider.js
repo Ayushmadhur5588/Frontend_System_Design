@@ -1,7 +1,8 @@
 import { useState, useEffect } from "react";
 
+
 const ImageSlider = () => {
-  const images = [
+  const images = [ 
     "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
     "https://piktochart.com/wp-content/uploads/2023/04/large-29.jpg",
     "https://i.pinimg.com/originals/2b/66/01/2b66016d5a1e2d230ecce59f8e673382.png",
